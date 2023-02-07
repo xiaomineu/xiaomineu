@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 ![hi-this-is-min](https://user-images.githubusercontent.com/39916804/217260800-fc416508-c94e-4ce1-a2ef-2002df7ff856.svg)
 
-- 🔭 I’m currently working on TikTok
+- 🔭 I’m currently working on TikTok as an back-end engineering
 - 🌱 I’m currently learning 《Refactoring》
 - ⚡ Fun fact: Basktetball
